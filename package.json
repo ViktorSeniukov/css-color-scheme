@@ -1,0 +1,28 @@
+{
+  "name": "css-color-scheme",
+  "version": "1.0.0",
+  "description": "css-color-scheme + mixin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorSeniukov/css-color-scheme.git"
+  },
+  "keywords": [
+    "css",
+    "mixin",
+    "color",
+    "colors",
+    "include",
+    "scheme"
+  ],
+  "type": "module",
+  "author": "ViktorS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorSeniukov/css-color-scheme/issues"
+  },
+  "homepage": "https://github.com/ViktorSeniukov/css-color-scheme#readme"
+}
